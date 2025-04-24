@@ -45,16 +45,25 @@ This project explores and analyzes a Spotify dataset using **SQL** and **Python*
 
 ## 📸 Sample Output
 
-### 🎯 Correlation Heatmap  
-![Correlation Heatmap](visualization/Average_Views.png)
+#### 🎯 Average Views
+![Average Views](visualization/Average_Views.png)
 
-### 📊 Tempo Distribution
-![Tempo Distribution](images/tempo_distribution.png)
+#### 🔥 Correlation Heatmap
+![Correlation Heatmap](visualization/Correlation_Heatmap.png)
 
-### 🔥 Top Streamed Tracks
-![Top Tracks Table](images/top_tracks_table.png)
+#### 🎵 Distribution of Tempo
+![Distribution of Tempo](visualization/Distribution_of_Tempo.png)
 
-## 📬 Contact
+#### 👑 Most Viewed Tracks
+![Most Viewed Tracks](visualization/Most_Viewed_Tracks.png)
 
-Created by [Zakir-ai](https://github.com/Zakir-ai)  
-Feel free to raise issues or contribute!
+
+
+## 🧠 Key Learnings
+
+- Learned how to explore real-world music data using SQL and Python.
+- Gained experience writing efficient SQL queries including `JOIN`, `GROUP BY`, `VIEWS`, and subqueries.
+- Used aggregate functions and indexing to improve performance.
+- Visualized complex data patterns using Python libraries like Seaborn and Matplotlib.
+- Practiced database restoration and Git version control for data projects.
+--
