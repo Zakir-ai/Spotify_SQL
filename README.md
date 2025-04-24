@@ -36,6 +36,9 @@ This project explores and analyzes a Spotify dataset using **SQL** and **Python*
 - **Git & GitHub** – For version control and project collaboration  
   🔗 [Git](https://git-scm.com/)  
   🔗 [GitHub](https://github.com/)
+  
+- **Kaggle** – Dataset source and exploration platform  
+  🔗 [Spotify Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 
 ## 🚀 How to Run
