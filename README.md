@@ -13,10 +13,11 @@ This project explores and analyzes a Spotify dataset using **SQL** and **Python*
 
 ## 📁 Project Structure
 
-- `Spotify_SQL.ipynb` – Jupyter notebook with SQL queries and Python visualizations
+- `Spotify_SQL.ipynb` – Google Colab with SQL queries and Python visualizations
 - `cleaned_dataset.csv` – Cleaned dataset used for analysis
 - SQL Views: `top_tracks`, `basic_track_info`
 - Python Visuals: distribution plots, correlation heatmaps
+- 'SoptifyDB.SQL':
 
 ## 🛠️ Tools Used
 
