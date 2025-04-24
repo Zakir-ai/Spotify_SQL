@@ -53,6 +53,7 @@ FROM spotify
 WHERE energy > 0.8 AND loudness > -5;
 
 -- Group: Average views per album type --
+
 SELECT album_type, AVG(views) AS avg_views
 FROM spotify
 GROUP BY album_type
