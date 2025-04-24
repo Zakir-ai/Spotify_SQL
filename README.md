@@ -52,7 +52,7 @@ This project explores and analyzes a Spotify dataset using **SQL** and **Python*
 2. Open **pgAdmin** or your preferred PostgreSQL tool.
 3. **Create a new database** (right-click on Databases → New Database).
 4. Once created, **right-click on the new database**, choose **"Restore"**.
-5. In the restore dialog, select the downloaded `.sql` file.
+5. In the restore dialog, select the downloaded `.sql` file.(**Just a quick reminder — when restoring the file, please make sure to upload it in .sql format instead of the default .backup file. By default, the system tends to open files as .backup format**)
 6. Click **Restore**.
 7. The database will now be populated — you can start running queries!
 
