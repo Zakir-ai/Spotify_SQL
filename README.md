@@ -1,4 +1,4 @@
-# 🎵 Spotify SQL Data Analysis
+# 🎧 Spotify SQL Analysis Project
 
 This project explores and analyzes a Spotify dataset using **SQL** and **Python**. It focuses on musical attributes, popularity metrics, and performance insights, helping to understand trends and listener behavior.
 
@@ -18,18 +18,29 @@ This project explores and analyzes a Spotify dataset using **SQL** and **Python*
 - SQL Views: `top_tracks`, `basic_track_info`
 - Python Visuals: distribution plots, correlation heatmaps
 
-## ⚙️ Tools Used
+## 🛠️ Tools Used
 
-- PostgreSQL / SQLite
-- Python (Pandas, Seaborn, Matplotlib)
-- Jupyter Notebook
-- Git & GitHub
+- **SQL (PostgreSQL)** – Used for querying, creating views, and aggregations  
+  🔗 [PostgreSQL](https://www.postgresql.org/)
+
+- **Python (Pandas, Seaborn, Matplotlib)** – Used for data analysis and visualizations  
+  🔗 [Pandas](https://pandas.pydata.org/)  
+  🔗 [Seaborn](https://seaborn.pydata.org/)  
+  🔗 [Matplotlib](https://matplotlib.org/)
+
+- **Google Colab** – For cloud-based Python execution and visualizations  
+  🔗 [Google Colab](https://colab.research.google.com/)
+
+- **Git & GitHub** – For version control and project collaboration  
+  🔗 [Git](https://git-scm.com/)  
+  🔗 [GitHub](https://github.com/)
+
 
 ## 🚀 How to Run
 
-### ▶️ Jupyter Notebook
+### ▶️ Google Colab
 1. Clone the repository  
-2. Open `Spotify_SQL.ipynb` in Jupyter Notebook  
+2. Open `Spotify_SQL.ipynb` in Google Colab 
 3. Connect to your SQL environment  
 4. Run the cells to explore the data and visualizations
 
