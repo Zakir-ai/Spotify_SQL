@@ -46,7 +46,7 @@ This project explores and analyzes a Spotify dataset using **SQL** and **Python*
 ## 📸 Sample Output
 
 ### 🎯 Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](visualization/Average Views.png)
 
 ### 📊 Tempo Distribution
 ![Tempo Distribution](images/tempo_distribution.png)
